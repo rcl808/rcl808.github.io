@@ -1,1 +1,9 @@
+title: Rad Club List
+description: Listings of different clubs on UH campus
+google_analytics:
+show_downloads: false
+repo: https://github.com/rcl808/rcl808
 theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
