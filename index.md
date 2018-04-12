@@ -2,12 +2,16 @@
 
 * [About RCL808](#about-rcl808)
 * [Installation](#installation)
-* [Development](#development)
+* [Application design] (#application-design)
+  * [Directory structure] (#directory-structure)
+* [Development History] (#development-history)
+  * [Milestone 1] (#milestone-1)
+  * [Milestone 2] (#milestone-2)
+* [Galaxy Deployment] (#galaxy-deployment)
 
 # About RCL808
 
-[Link to Application Homepage](https://rcl808.meteorapp.com/)  
-[Link to Milestone 1](https://github.com/rcl808/rcl808/projects/1)  
+[Link to Application Homepage](https://rcl808.meteorapp.com/)
 [Link to Milestone 2](https://github.com/rcl808/rcl808/projects/2)
 
 RCL808 is a web application which offers a comprehensive listing of all clubs and organizations on the University of Hawaii at Manoa Campus.
@@ -48,18 +52,57 @@ meteor npm install
 meteor npm run start
 ```
 
-# Development
+# Application Design
+ 
+## The backend structure
 
-#### Milestone 1:
+Our application is created by a combination of meteor, galaxy, and mlab. Galaxy and mlab are used to host and store database. Meteor is used as the main framework to build and design RCL808. The structure of the application is showned below:
 
-The development of the application was based off a meteor application template react. Initial changes in milestone 1 conceptualizing the usage case of the application and the design of the main pages of the application. These pages were the homepage, create a club page, category page and individual club pages. Mockups of the pages were implemented in milestone 1 and contains the basic layout of the pages. Integration with the Mongodb database and other advanced features have not been implemented. These pages have been temporarily implemented in the NavBar to facilitate development and debugging.
+```
+client/
+  main.html         # Contains the headings for the application and background color
+  main.js           # Import all the files in this application for it to run smoothly
+  style.css         # Front-end customizations 
+  
+imports/
+  api/              # Create schema for the database of the application
+  startup/          # Contains the codes to run what the system starts
+  ui/               # Contains all the codes for all the front-end component of the application 
+                    # to interaction with the users and with each other.
+                    
+node_modules/       # Contains the roots of Meteor.
+  
+public/             # Contains all the images to be used on the front-end.
+  images/
+```
 
-Development progress of the application was maintained using GitHub's issue tracking and projects. All issues are based on self-imposed application and functional requirements. Issues were created and placed in the backlog category and are assigned and worked on in the in-progress category. All contributors to each issue are added to the assigned users. Issues are closed and moved to the completed category when requirements are met and implemented.
+# Development History
 
-#### Milestone 1 Mockups:
+## Milestone 1
 
-<img src="./img/homepage-mockup-m1.png" />
+Upon completing this milestone, there would be various mockup HTML pages to be used on our application.
 
-<img src="./img/create-a-club-page-mockup-m1.png" />
+Milestone 1 has a total of 10 issues. All of them are managed [here](https://github.com/rcl808/rcl808/projects/1)
+Below is a screenshot of this milestone.
 
-<img src="./img/club-page-mockup-m1.png" />
+<img src="./img/milestone1.png" />
+
+The issues are first created in the "Backlog" column. Each member chooses what he would like to work on by dragging the chosen issue into the "In Progress" column. Whenever the issue is resolved, the member can drag it to "Done" column and close it.
+
+The html pages we created for this milestone are:
+
+* Landing page
+
+* Login page
+
+* Home Page
+
+* Create Club Page
+
+* Edit Club Page
+
+* Create Event Page
+
+* Edit Event Page
+
+## Milestone 2
