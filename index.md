@@ -2,12 +2,12 @@
 
 * [About RCL808](#about-rcl808)
 * [Installation](#installation)
-* [Application design] (#application-design)
-  * [Directory structure] (#directory-structure)
-* [Development History] (#development-history)
-  * [Milestone 1] (#milestone-1)
-  * [Milestone 2] (#milestone-2)
-* [Galaxy Deployment] (#galaxy-deployment)
+* [Application design](#application-design)
+  * [Directory structure](#directory-structure)
+* [Development History](#development-history)
+  * [Milestone 1](#milestone-1)
+  * [Milestone 2](#milestone-2)
+* [Galaxy Deployment](#galaxy-deployment)
 
 # About RCL808
 
