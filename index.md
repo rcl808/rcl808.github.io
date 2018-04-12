@@ -6,8 +6,8 @@
 
 # About RCL808
 
-[Link to Application Homepage](https://rcl808.meteorapp.com/)
-[Link to Milestone 1](https://github.com/rcl808/rcl808/projects/1)
+[Link to Application Homepage](https://rcl808.meteorapp.com/)  
+[Link to Milestone 1](https://github.com/rcl808/rcl808/projects/1)  
 [Link to Milestone 2](https://github.com/rcl808/rcl808/projects/2)
 
 RCL808 is a web application which offers a comprehensive listing of all clubs and organizations on the University of Hawaii at Manoa Campus.
