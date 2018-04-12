@@ -2,6 +2,7 @@
 
 * [About RCL808](#about-rcl808)
 * [Installation](#installation)
+* [Development](#development)
 
 # About RCL808
 
@@ -46,3 +47,7 @@ npm-windows-upgrade
 meteor npm install
 meteor npm run start
 ```
+
+# Development
+
+The development of the application was based off a meteor application template react. Initial changes in milestone 1 conceptualizing the usage case of the application and the design of the main pages of the application. These pages were the homepage, create a club page, category page and individual club pages. Mockups of the pages were implemented in milestone 1 and contains the basic layout of the pages. Integration with the Mongodb database and other advanced features have not been implemented. These pages have been temporarily implemented in the NavBar to facilitate development and debugging.
