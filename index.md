@@ -11,10 +11,8 @@
 
 # About RCL808
 
-[Link to Application Homepage](https://rcl808.meteorapp.com/)
-[Link to Milestone 2](https://github.com/rcl808/rcl808/projects/2)
+RCL808 is a web application which offers a comprehensive listing of all clubs and organizations on the University of Hawaii at Manoa Campus. [The Link for our application is here](https://rcl808.meteorapp.com/)
 
-RCL808 is a web application which offers a comprehensive listing of all clubs and organizations on the University of Hawaii at Manoa Campus.
 
 <img src="./img/homepage-mockup-m1.png" />
 
@@ -106,3 +104,4 @@ The html pages we created for this milestone are:
 * Edit Event Page
 
 ## Milestone 2
+[Link to Milestone 2](https://github.com/rcl808/rcl808/projects/2)
