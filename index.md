@@ -1,6 +1,7 @@
 # Table of contents
 
 * [About RCL808](#about-rcl808)
+* [Installation](#installation)
 
 # About RCL808
 
@@ -25,3 +26,23 @@ Users can search for a club using the search menu. An alternative way to find cl
 <img src="./img/club-page-mockup-m1.png" />
 
 Once a user has found a club that they are interested in, users can navigate to the club's page and view information about the club.
+
+# Installation
+
+Installation of this application requires the meteor framework, npm and node.  
+
+#### Installing meteor:  
+```
+choco install meteor
+```
+#### Updating NPM:
+```
+Set-ExecutionPolicy Unrestricted -Scope CurrentUser -Force
+npm install -g npm-windows-upgrade
+npm-windows-upgrade
+```
+#### Running the Application:
+```
+meteor npm install
+meteor npm run start
+```
