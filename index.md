@@ -50,4 +50,16 @@ meteor npm run start
 
 # Development
 
+#### Milestone 1:
+
 The development of the application was based off a meteor application template react. Initial changes in milestone 1 conceptualizing the usage case of the application and the design of the main pages of the application. These pages were the homepage, create a club page, category page and individual club pages. Mockups of the pages were implemented in milestone 1 and contains the basic layout of the pages. Integration with the Mongodb database and other advanced features have not been implemented. These pages have been temporarily implemented in the NavBar to facilitate development and debugging.
+
+Development progress of the application was maintained using GitHub's issue tracking and projects. All issues are based on self-imposed application and functional requirements. Issues were created and placed in the backlog category and are assigned and worked on in the in-progress category. All contributors to each issue are added to the assigned users. Issues are closed and moved to the completed category when requirements are met and implemented.
+
+#### Milestone 1 Mockups:
+
+<img src="./img/homepage-mockup-m1.png" />
+
+<img src="./img/create-a-club-page-mockup-m1.png" />
+
+<img src="./img/club-page-mockup-m1.png" />
