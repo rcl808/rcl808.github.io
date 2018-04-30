@@ -98,18 +98,25 @@ The issues are first created in the "Backlog" column. Each member chooses what h
 The html pages we created for this milestone are:
 
 * Landing page
+<img src="./img/landing-page.png" />
 
 * Login page
-
-* Home Page
+<img src="./img/log-in-page.png" />
 
 * Create Club Page
-
-* Edit Club Page
-
-* Create Event Page
-
-* Edit Event Page
+<img src=".img/add-club-page.png" />
 
 ## Milestone 2
 [Link to Milestone 2](https://github.com/rcl808/rcl808/projects/2)
+
+We added footer to various pages.
+
+Make the categories on landing page clickable
+
+Improve user interface to make all the web pages consistent with the overall theme.
+
+* Landing page
+<img src="./img/landing-page-m2.png" />
+* Login page
+<img src="./img/log-in-page.png" />
+
