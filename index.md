@@ -104,7 +104,7 @@ The html pages we created for this milestone are:
 <img src="./img/log-in-page.png" />
 
 * Create Club Page
-<img src=".img/add-club-page.png" />
+<img src="./img/add-club-page.png" />
 
 ## Milestone 2
 [Link to Milestone 2](https://github.com/rcl808/rcl808/projects/2)
@@ -118,5 +118,4 @@ Improve user interface to make all the web pages consistent with the overall the
 * Landing page
 <img src="./img/landing-page-m2.png" />
 * Login page
-<img src="./img/log-in-page.png" />
 
