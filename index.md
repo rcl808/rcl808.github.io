@@ -7,6 +7,8 @@
 * [Development History](#development-history)
   * [Milestone 1](#milestone-1)
   * [Milestone 2](#milestone-2)
+  * [Milestone 3](#milestone-3)
+
 
 # Links
 [Link to Webpage](https://rcl808.meteorapp.com/)  
@@ -107,15 +109,47 @@ The html pages we created for this milestone are:
 <img src="./img/add-club-page.png" />
 
 ## Milestone 2
-[Link to Milestone 2](https://github.com/rcl808/rcl808/projects/2)
 
-We added footer to various pages.
+Milestone 2 has a total of 8 issues. All of them are managed [here](https://github.com/rcl808/rcl808/projects/2).
+Below is a screenshot of this milestone.
 
-Make the categories on landing page clickable
+<img src="./img/M2.png" />
+
+As for this milestone, we create an universal footer for users to easily access the main functionality of the application.
+
+We also make the categories on landing page clickable
 
 Improve user interface to make all the web pages consistent with the overall theme.
 
 * Landing page
 <img src="./img/landing-page-m2.png" />
+
 * Login page
+<img src="./img/log-in.png" />
+
+* Sign up page
+<img src="./img/sign-up.png" />
+
+* Create Club page
+<img src="./img/create-club.png" />
+
+## Milestone 3
+
+Milestone 3 has a total of 8 issues. All of them are managed [here](https://github.com/rcl808/rcl808/projects/3).
+Below is a screenshot of this milestone.
+
+<img src="./img/M3.png" />
+
+As for this milestone, the main goal is to add various functionalities into the application. The user can add their own club and be found within the clubs directory.
+
+The user can choose clubs that he/she would like to know more. In case if he/she does not want to attend the club anymore, he/she can leave the club. All of these functionaries can be accessed under 'My Clubs' tab in the navbar.
+
+On top of this, the users can find clubs based on the categories. In previous milestone, we were only able to make it clickable, but now it works the way it is supposed to.
+
+* All Clubs page
+<img src="./img/allclubs.png" />
+
+
+
+
 
