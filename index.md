@@ -142,10 +142,10 @@ As for this milestone, the main goal is to add various functionalities into the 
 
 The user can choose clubs that he/she would like to know more. In case if he/she does not want to attend the club anymore, he/she can leave the club. All of these functionaries can be accessed under 'My Clubs' tab in the navbar.
 
-On top of this, the users can find clubs based on the categories. In previous milestone, we were only able to make it clickable, but now it works the way it is supposed to.
+On top of this, the users can find clubs based on the categories. In previous milestone, we were only able to make it clickable, but now it works the way it is supposed to. Once the user clicks on the category, it will lead him/her to the All Clubs page. It has a feature to sort out the clubs based on what is chosen. The image below illustrate how the function works.
 
 * All Clubs page
-<img src="./img/allclubs.png" />
+<img src="./img/allclubsort.png" />
 
 ## Initial User Testing
 
