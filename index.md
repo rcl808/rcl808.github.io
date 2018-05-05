@@ -149,7 +149,14 @@ On top of this, the users can find clubs based on the categories. In previous mi
 * All Clubs page
 <img src="./img/allclubs.png" />
 
+## Initial User Testing
 
+We allowed a few users to test the application. Then they gave their feedback on what they liked and what could be improved. These are their responses:
 
+Kristen (24 yr old office worker):
 
+*"Seems like a good site to search for what clubs there are at UH. It would be nice if there was more than just joining and leaving clubs though. Otherwise I wouldn't really use the site."*
 
+Ryan (Sophomore major in Business)
+
+*"I'd say you need something like a group chat or something, like a bulletin board for the clubs you're in. Also like a gallery showing past activities along with the description of the club. I like the front page though."*
