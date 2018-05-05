@@ -28,7 +28,7 @@ When users first visit the website, they are first greeted by the landing page. 
 
 The homepage of RCL808 features a top menu bar where users can login. In the main section of the page, several clubs will be featured using cards and popular categories are also listed with cards below. Users are also able to search for particular clubs and can create a club if they are logged in.
 
-<img src="./img/add-club-page.png" />
+<img src="./img/create-club.png" />
 
 Users can navigate to The create a club page where users can obtain all of the documents to create a club at the University of Hawaii at Manoa. Once this club is registered, the website will be updated from the official club list.
 
