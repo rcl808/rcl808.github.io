@@ -162,3 +162,7 @@ Ryan (Sophomore major in Business)
 Richard (UH Manoa Alumni)
 
 *"I like the user interface, simple yet intuitive, a much better version than that UH currently have for the clubs."*
+
+Grace (Junior in Electrical Engineering)
+
+*"It seems like something that would be really nice for new students. Perhaps you could make it so that you can view the club info without having to login first."*
